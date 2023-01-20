@@ -4,11 +4,11 @@
 
  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m currently working on Unity engineer at [ARKLET](https://arklet.jp/)
+- 👯 I’m currently working on software engineer at [ARKLET](https://arklet.jp/)
 
 - 🤝 Qiita Acount: https://qiita.com/Frank27
 
-- 👨‍💻 I’m currently learning Unity
+- 👨‍💻 I’m currently learning **Unity**
 
 - ⚡ A member of [watnow](http://www.watnow.jp/)
 
@@ -41,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
-          
-          
           
 </p>
 
